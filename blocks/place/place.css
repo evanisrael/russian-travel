@@ -1,0 +1,12 @@
+.place {
+  margin: 0;
+  padding: 0 0 80px 0;
+  display: grid;
+  grid-template-rows: repeat(2, min-content);
+  grid-template-columns: minmax(440px, 460px) 1fr;
+  gap: 40px;
+}
+
+.place:last-child {
+  padding: 0 0 92px 0;
+}

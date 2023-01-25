@@ -1,10 +1,10 @@
-.intro__title {
-  max-width: 690px;
+.place__title {
+  max-width: 460px;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
-  font-size: 54px;
-  line-height: 58px;
+  font-size: 72px;
+  line-height: 106%;
   color: #FFFFFF;
   margin: 0;
 }
