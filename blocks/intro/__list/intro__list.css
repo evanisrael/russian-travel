@@ -10,3 +10,15 @@
   margin: 0;
   padding: 0 0 92px 0;
 }
+
+@media screen and (max-width: 1023px) {
+  .intro__list {
+    padding: 0 0 88px 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .intro__list {
+    min-width: 288px;
+  }
+}

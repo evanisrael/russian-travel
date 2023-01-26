@@ -18,7 +18,7 @@
 
 @import url(../blocks/header/__lang/header__lang.css);
 
-@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
+@import url(../blocks/header/__lang-link/_on/header__lang-link_on.css);
 
 @import url(../blocks/cover/cover.css);
 
@@ -83,3 +83,5 @@
 @import url(../blocks/footer/__link/footer__link.css);
 
 @import url(../blocks/footer/__list/footer__list.css);
+
+@import url(../blocks/lead/__container/lead__container.css);
