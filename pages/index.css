@@ -48,8 +48,6 @@
 
 @import url(../blocks/intro/__numbers/intro__numbers.css);
 
-@import url(../blocks/lead/__vector/lead__vector.css);
-
 @import url(../blocks/place/__image/place__image.css);
 
 @import url(../blocks/place/__link/place__link.css);
@@ -61,8 +59,6 @@
 @import url(../blocks/place/__url-heading/place__url-heading.css);
 
 @import url(../blocks/place/__website/place__website.css);
-
-@import url(../blocks/place/__card/place__card.css);
 
 @import url(../blocks/place/__list/place__list.css);
 
