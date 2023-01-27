@@ -6,16 +6,12 @@
 
 @media screen and (max-width: 1279px) {
   .lead__image {
-    font-size: 96px;
-    line-height: 104%;
     margin: 0;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .lead__image {
-    font-size: 96px;
-    line-height: 104%;
     min-width: 100%;
   }
 }
@@ -23,8 +19,6 @@
 @media screen and (max-width: 767px) {
   .lead__image {
     max-width: 288px;
-    font-size: 40px;
-    line-height: 110%;
   }
 }
 
