@@ -44,4 +44,8 @@
     grid-row-gap: 32px;
     padding: 0 0 50px 0;
   }
+
+  .place:last-child {
+    padding-bottom: 66px;
+  }
 }
