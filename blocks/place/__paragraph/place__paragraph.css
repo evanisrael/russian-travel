@@ -13,3 +13,22 @@
 .place__paragraph:nth-of-type(2n) {
   padding-bottom: 0;
 }
+
+.place__paragraph:last-child {
+  padding-bottom: 0;
+}
+
+@media screen and (max-width: 1023px) {
+  .place__paragraph {
+    max-width: 352px;
+    font-size: 16px;
+    line-height: 26px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .place__paragraph {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}

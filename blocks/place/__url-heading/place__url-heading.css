@@ -11,3 +11,16 @@
   padding-bottom: 12px;
   box-sizing: border-box;
 }
+
+@media screen and (max-width: 1023px) {
+  .place__url-heading {
+    line-height: 12px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .place__url-heading {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
